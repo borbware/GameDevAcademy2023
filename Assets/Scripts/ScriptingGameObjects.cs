@@ -10,6 +10,7 @@ public class ScriptingGameObjects : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        //do stuff
         DoStuffThatWeWant();
         Debug.Log(myName);
         Debug.Log(gameObject.name);
